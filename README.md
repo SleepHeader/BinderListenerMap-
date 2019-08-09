@@ -1,4 +1,5 @@
-# BinderListenerMap-
-## A sample to use binder register callback
+# BinderListenerMap
 
-## Support multiply client register callback
+* A sample to use binder register callback
+
+* Support multiply client register callback
